@@ -54,6 +54,13 @@ import java.net.URI;
  * You don't have to specify any arguments if you want to connect to the example WebSocket server,
  * as this is the default.
  */
+
+/**
+ * 目的:服务器和客户端双向通信
+ *      1:服务端需要维护客户端链接 channel
+ *      2:编码/解码
+ *      3:根据数据帧来发送数据，和断开链接
+ */
 public final class WebSocketClient {
 
     static final String URL = System.getProperty("url", "ws://127.0.0.1:8080/websocket");
