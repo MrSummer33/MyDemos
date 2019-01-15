@@ -28,9 +28,11 @@ import io.netty.handler.codec.http.HttpObject;
 import io.netty.handler.codec.http.HttpRequest;
 import io.netty.handler.codec.http.HttpUtil;
 import io.netty.util.AsciiString;
+import java.io.UnsupportedEncodingException;
 
 public class HttpHelloWorldServerHandler extends SimpleChannelInboundHandler<HttpObject> {
-    private static final byte[] CONTENT = { 'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd' };
+
+    private static final byte[] CONTENT = {'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd'};
 
     private static final AsciiString CONTENT_TYPE = AsciiString.cached("Content-Type");
     private static final AsciiString CONTENT_LENGTH = AsciiString.cached("Content-Length");
@@ -48,7 +50,8 @@ public class HttpHelloWorldServerHandler extends SimpleChannelInboundHandler<Htt
             HttpRequest req = (HttpRequest) msg;
 
             boolean keepAlive = HttpUtil.isKeepAlive(req);
-            FullHttpResponse response = new DefaultFullHttpResponse(HTTP_1_1, OK, Unpooled.wrappedBuffer(CONTENT));
+            FullHttpResponse response = new DefaultFullHttpResponse(HTTP_1_1, OK,
+                    Unpooled.wrappedBuffer(CONTENT));
             response.headers().set(CONTENT_TYPE, "text/plain");
             response.headers().setInt(CONTENT_LENGTH, response.content().readableBytes());
 
