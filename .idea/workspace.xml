@@ -4,17 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/../../ebao/jbdoctor/jbdoctor-corso/src/main/java/com/health/jbdoctor/corso/service/msg/MsgService.java" description="private SmsClient smsClient;" line="49" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16eb9c72-4bb4-4084-90b7-27ac27dcf4d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/junit/JUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyDemos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyDemos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="16eb9c72-4bb4-4084-90b7-27ac27dcf4d9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +35,9 @@
     <session id="1626755953">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="14" />
+          <entry key="project.open.time.1" value="15" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
@@ -55,7 +45,7 @@
           <entry key="project.open.time.2" value="5" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -96,7 +86,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="144">
               <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
             </state>
           </provider>
@@ -259,9 +249,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,6 +288,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -462,6 +452,7 @@
       <workItem from="1547117678458" duration="284000" />
       <workItem from="1547519868300" duration="3395000" />
       <workItem from="1547608045375" duration="2371000" />
+      <workItem from="1547790798793" duration="36000" />
     </task>
     <servers />
   </component>
@@ -498,7 +489,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144764000" />
+    <option name="totallyTimeSpent" value="144800000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,8 +503,8 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8337349" visible="true" weight="0.27181688" />
-      <window_info id="Structure" order="1" sideWeight="0.16626506" side_tool="true" visible="true" weight="0.27181688" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.80890054" visible="true" weight="0.27539343" />
+      <window_info id="Structure" order="1" sideWeight="0.19109948" side_tool="true" visible="true" weight="0.27539343" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -528,7 +519,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.53975904" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3626506" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -916,15 +907,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#79046#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="144">
           <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
         </state>
       </provider>

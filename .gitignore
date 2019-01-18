@@ -36,3 +36,4 @@ overridedb.*
 dump.rdb
 /localconfig/
 
+.idea/workspace.xml
