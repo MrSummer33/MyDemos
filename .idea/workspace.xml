@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../../ebao/jbdoctor/jbdoctor-corso/src/main/java/com/health/jbdoctor/corso/service/msg/MsgService.java" description="private SmsClient smsClient;" line="49" />
+    <bookmark url="file://$USER_HOME$/ebao/jbdoctor/jbdoctor-corso/src/main/java/com/health/jbdoctor/corso/service/msg/MsgService.java" description="private SmsClient smsClient;" line="49" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16eb9c72-4bb4-4084-90b7-27ac27dcf4d9" name="Default Changelist" comment="" />
+    <list default="true" id="16eb9c72-4bb4-4084-90b7-27ac27dcf4d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/j2se/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/j2se/ProducerAndConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/j2se/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/zookeeper/ZKTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/xiaxi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/xiaxi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,14 +89,54 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1171241295">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="java" value="77" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="JAVA" value="77" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2675" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2675" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+        <entry file="file://$PROJECT_DIR$/demo/src/main/java/j2se/ProducerAndConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+            <state relative-caret-position="102">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,6 +147,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -157,10 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/src/main/java/netty/udt/echo/rendezvousBytes/ByteEchoPeerTwo.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/netty/securechat/SecureChatServer.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/netty/securechat/SecureChatClient.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/netty/objectecho/ObjectEchoClient.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/netty/objectecho/ObjectEchoServer.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/netty/factorial/FactorialClient.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/netty/worldclock/WorldClockClientHandler.java" />
@@ -206,8 +252,12 @@
         <option value="$PROJECT_DIR$/demo/src/main/java/netty/rpc/server/ServerBootstrap.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/netty/rpc/common/encoder/baocai/BServerDecoder.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/netty/http/helloworld/HttpHelloWorldServerHandler.java" />
-        <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/demo/src/main/java/junit/JUnitTest.java" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/zookeeper/ZKTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/j2se/StringCompare.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/j2se/ProducerAndConsumer.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/j2se/LRUCache.java" />
       </list>
     </option>
   </component>
@@ -220,7 +270,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../toolkits/maven/apache-maven-3.5.4" />
+        <option name="mavenHome" value="$USER_HOME$/toolkits/maven/apache-maven-3.5.4" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -241,16 +291,17 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="1440" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,18 +335,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyDemos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyDemos" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="j2se" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;ByteToMessage&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/handler/codec/ByteToMessageDecoder.java&#10;ChannelInbo&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final.jar!/io/netty/channel/ChannelInboundHandler.class&#10;ChannelOutHandler&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final.jar!/io/netty/channel/ChannelOutboundHandler.class&#10;ChannelHandler&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/ChannelHandler.java&#10;MessageToByte&#9;PSI&#9;JAVA://io.netty.handler.codec.MessageToByteEncoder&#10;DefaultFullHttp&#9;PSI&#9;JAVA://io.netty.handler.codec.http.DefaultFullHttpRequest&#10;HttpObjectEncoder&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectEncoder.java&#10;LoggingHandler&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/handler/logging/LoggingHandler.java&#10;WebSocketFrameDe&#9;PSI&#9;JAVA://io.netty.handler.codec.http.websocketx.WebSocketFrameDecoder&#10;Channel&#9;PSI&#9;JAVA://io.netty.channel.Channel&#10;SimpleChannel&#9;PSI&#9;JAVA://io.netty.channel.SimpleChannelInboundHandler&#10;ChannelPromise&#9;PSI&#9;JAVA://io.netty.channel.ChannelPromise&#10;Selector&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/Selector.java&#10;SelectionKey&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/SelectionKey.java&#10;InputStreamReader&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/InputStreamReader.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547688228375" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549028765300" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -326,92 +386,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JUnitTest.test1">
-    <configuration name="ClientBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="netty.rpc.client.ClientBootstrap" />
+  <component name="RunManager" selected="JUnit.StringCompare.smallerNode">
+    <configuration name="StringCompare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="netty.rpc.client.*" />
+          <option name="PATTERN" value="j2se.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="j2se" />
+      <option name="MAIN_CLASS_NAME" value="j2se.StringCompare" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpHelloWorldServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="netty.http.helloworld.HttpHelloWorldServer" />
+    <configuration name="StringCompare.checkMaster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="netty.http.helloworld.*" />
+          <option name="PATTERN" value="j2se.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServerBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="netty.rpc.server.ServerBootstrap" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="netty.rpc.server.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JUnitTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="junit" />
-      <option name="MAIN_CLASS_NAME" value="junit.JUnitTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="j2se" />
+      <option name="MAIN_CLASS_NAME" value="j2se.StringCompare" />
+      <option name="METHOD_NAME" value="checkMaster" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JUnitTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringCompare.compare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="junit.*" />
+          <option name="PATTERN" value="j2se.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="junit" />
-      <option name="MAIN_CLASS_NAME" value="junit.JUnitTest" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="j2se" />
+      <option name="MAIN_CLASS_NAME" value="j2se.StringCompare" />
+      <option name="METHOD_NAME" value="compare" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCompare.smallerNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j2se.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="j2se" />
+      <option name="MAIN_CLASS_NAME" value="j2se.StringCompare" />
+      <option name="METHOD_NAME" value="smallerNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZKTest.watch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="zookeeper.ZKTest" />
+      <option name="METHOD_NAME" value="watch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ServerBootstrap" />
-      <item itemvalue="Application.ClientBootstrap" />
-      <item itemvalue="Application.HttpHelloWorldServer" />
-      <item itemvalue="JUnit.JUnitTest.test1" />
-      <item itemvalue="JUnit.JUnitTest.test2" />
+      <item itemvalue="JUnit.ZKTest.watch" />
+      <item itemvalue="JUnit.StringCompare.compare" />
+      <item itemvalue="JUnit.StringCompare" />
+      <item itemvalue="JUnit.StringCompare.checkMaster" />
+      <item itemvalue="JUnit.StringCompare.smallerNode" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JUnitTest.test1" />
-        <item itemvalue="JUnit.JUnitTest.test2" />
-        <item itemvalue="Application.HttpHelloWorldServer" />
-        <item itemvalue="Application.ServerBootstrap" />
-        <item itemvalue="Application.ClientBootstrap" />
+        <item itemvalue="JUnit.StringCompare.smallerNode" />
+        <item itemvalue="JUnit.StringCompare.checkMaster" />
+        <item itemvalue="JUnit.StringCompare.compare" />
+        <item itemvalue="JUnit.StringCompare" />
+        <item itemvalue="JUnit.ZKTest.watch" />
       </list>
     </recent_temporary>
   </component>
@@ -453,43 +520,47 @@
       <workItem from="1547519868300" duration="3395000" />
       <workItem from="1547608045375" duration="2371000" />
       <workItem from="1547790798793" duration="36000" />
+      <workItem from="1548126650685" duration="12113000" />
+      <workItem from="1548645896168" duration="3569000" />
+      <workItem from="1549001225462" duration="4411000" />
+      <workItem from="1549026671397" duration="2377000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IoTest_testCharExchangeToByte - 2018.11.09 at 16h 06m 20s.xml">
-      <configuration name="IoTest.testCharExchangeToByte" configurationId="JUnit" />
+    <history-entry file="StringCompare - 2019.02.01 at 14h 15m 19s.xml">
+      <configuration name="StringCompare" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Base64Test_testBase64 - 2018.11.12 at 09h 17m 39s.xml">
-      <configuration name="Base64Test.testBase64" configurationId="JUnit" />
+    <history-entry file="StringCompare_compare - 2019.02.01 at 14h 16m 37s.xml">
+      <configuration name="StringCompare.compare" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Base64Test_testBase64 - 2018.11.12 at 09h 18m 30s.xml">
-      <configuration name="Base64Test.testBase64" configurationId="JUnit" />
+    <history-entry file="StringCompare_checkMaster - 2019.02.01 at 14h 31m 24s.xml">
+      <configuration name="StringCompare.checkMaster" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Base64Test_testBase64 - 2018.11.12 at 09h 46m 14s.xml">
-      <configuration name="Base64Test.testBase64" configurationId="JUnit" />
+    <history-entry file="StringCompare_checkMaster - 2019.02.01 at 14h 32m 01s.xml">
+      <configuration name="StringCompare.checkMaster" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmbededTest_testWebSocket00Response - 2018.12.02 at 14h 21m 25s.xml">
-      <configuration name="EmbededTest.testWebSocket00Response" configurationId="JUnit" />
+    <history-entry file="StringCompare_checkMaster - 2019.02.01 at 14h 47m 47s.xml">
+      <configuration name="StringCompare.checkMaster" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmbededTest_testWebSocket00Response - 2018.12.02 at 14h 22m 16s.xml">
-      <configuration name="EmbededTest.testWebSocket00Response" configurationId="JUnit" />
+    <history-entry file="StringCompare_checkMaster - 2019.02.01 at 14h 48m 30s.xml">
+      <configuration name="StringCompare.checkMaster" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmbededTest_testWebSocket00Response - 2018.12.02 at 14h 23m 38s.xml">
-      <configuration name="EmbededTest.testWebSocket00Response" configurationId="JUnit" />
+    <history-entry file="StringCompare_smallerNode - 2019.02.01 at 14h 53m 18s.xml">
+      <configuration name="StringCompare.smallerNode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JUnitTest_test1 - 2019.01.15 at 10h 48m 52s.xml">
-      <configuration name="JUnitTest.test1" configurationId="JUnit" />
+    <history-entry file="StringCompare_smallerNode - 2019.02.01 at 14h 53m 48s.xml">
+      <configuration name="StringCompare.smallerNode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JUnitTest_test2 - 2019.01.15 at 10h 49m 08s.xml">
-      <configuration name="JUnitTest.test2" configurationId="JUnit" />
+    <history-entry file="StringCompare_smallerNode - 2019.02.01 at 14h 58m 55s.xml">
+      <configuration name="StringCompare.smallerNode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JUnitTest_test1 - 2019.01.15 at 11h 10m 19s.xml">
-      <configuration name="JUnitTest.test1" configurationId="JUnit" />
+    <history-entry file="StringCompare_smallerNode - 2019.02.01 at 14h 59m 07s.xml">
+      <configuration name="StringCompare.smallerNode" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144800000" />
+    <option name="totallyTimeSpent" value="167270000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -501,10 +572,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="836" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.80890054" visible="true" weight="0.27539343" />
-      <window_info id="Structure" order="1" sideWeight="0.19109948" side_tool="true" visible="true" weight="0.27539343" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.20233463" visible="true" weight="0.34406295" />
+      <window_info id="Structure" order="1" sideWeight="0.79766536" side_tool="true" weight="0.31842387" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -513,13 +585,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2626506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3841584" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.53975904" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3626506" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -541,125 +613,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/http/snoop/HttpSnoopClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/echo/EchoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/echo/EchoServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/rpc/common/response/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/rpc/common/response/baocai/BResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/rpc/client/ClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/rpc/client/ClientInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/rpc/common/encoder/baocai/BClientEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/rpc/common/encoder/baocai/BClientDecoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/rpc/common/encoder/baocai/BServerEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/objectecho/ObjectEchoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/http/websocketx/server/WebSocketFrameHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/http/websocketx/server/WebSocketIndexPageHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/http/websocketx/server/ChatWebSocketHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/ChannelOption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="112" column="56" selection-start-line="112" selection-start-column="56" selection-end-line="112" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/oio/OioByteStreamChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/Channel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
@@ -863,21 +816,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/proxy/cglib/CglibMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,21 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -912,8 +839,148 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        <state relative-caret-position="431">
+          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar!/org/apache/zookeeper/CreateMode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar!/org/apache/zookeeper/ZooKeeper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="391" column="16" selection-start-line="391" selection-start-column="16" selection-end-line="391" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/WatchedEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ClientCnxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="537" column="12" lean-forward="true" selection-start-line="537" selection-start-column="12" selection-end-line="537" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/Watcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="1505" column="40" selection-start-line="1505" selection-start-column="40" selection-end-line="1505" selection-end-column="40" />
+          <folding>
+            <element signature="e#68954#68955#0" expanded="true" />
+            <element signature="e#68992#68993#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/zookeeper/ZKTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219">
+          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/j2se/StringCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="127" column="11" selection-start-line="127" selection-start-column="11" selection-end-line="127" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final.jar!/io/netty/util/internal/shaded/org/jctools/queues/atomic/AtomicReferenceArrayQueue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="176" column="18" selection-start-line="176" selection-start-column="18" selection-end-line="176" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/j2se/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="368" column="13" lean-forward="true" selection-start-line="368" selection-start-column="13" selection-end-line="368" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/j2se/ProducerAndConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
