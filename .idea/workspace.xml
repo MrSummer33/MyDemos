@@ -4,7 +4,10 @@
     <bookmark url="file://$USER_HOME$/ebao/jbdoctor/jbdoctor-corso/src/main/java/com/health/jbdoctor/corso/service/msg/MsgService.java" description="private SmsClient smsClient;" line="49" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16eb9c72-4bb4-4084-90b7-27ac27dcf4d9" name="Default Changelist" comment="" />
+    <list default="true" id="16eb9c72-4bb4-4084-90b7-27ac27dcf4d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/leetcode/MaxDepthAfterSplit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +16,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyDemos$MaxDepthAfterSplit.ic" NAME="MaxDepthAfterSplit Coverage Results" MODIFIED="1585730573278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/MyDemos$FactoryMethod.ic" NAME="FactoryMethod Coverage Results" MODIFIED="1544324968641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>pattern.factory.*</FILTER>
     </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="240" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -83,36 +92,36 @@
     <session id="1171241295">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="5" />
-          <entry key="java" value="77" />
+          <entry key="java" value="78" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="77" />
+          <entry key="JAVA" value="78" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2675" />
+          <entry key="java" value="3012" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2675" />
+          <entry key="JAVA" value="3012" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -121,13 +130,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo/src/main/java/j2se/ProducerAndConsumer.java">
+        <entry file="file://$PROJECT_DIR$/demo/src/main/java/leetcode/MaxDepthAfterSplit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="169">
+              <caret line="52" column="26" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -198,7 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/src/main/java/netty/objectecho/ObjectEchoServer.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/netty/factorial/FactorialClient.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/netty/worldclock/WorldClockClientHandler.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/netty/worldclock/WorldClockProtocol.java" />
@@ -249,6 +254,7 @@
         <option value="$PROJECT_DIR$/demo/src/main/java/j2se/StringCompare.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/j2se/ProducerAndConsumer.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/j2se/LRUCache.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/leetcode/MaxDepthAfterSplit.java" />
       </list>
     </option>
   </component>
@@ -292,6 +298,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -330,14 +337,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;ByteToMessage&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/handler/codec/ByteToMessageDecoder.java&#10;ChannelInbo&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final.jar!/io/netty/channel/ChannelInboundHandler.class&#10;ChannelOutHandler&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final.jar!/io/netty/channel/ChannelOutboundHandler.class&#10;ChannelHandler&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/ChannelHandler.java&#10;MessageToByte&#9;PSI&#9;JAVA://io.netty.handler.codec.MessageToByteEncoder&#10;DefaultFullHttp&#9;PSI&#9;JAVA://io.netty.handler.codec.http.DefaultFullHttpRequest&#10;HttpObjectEncoder&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectEncoder.java&#10;LoggingHandler&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/handler/logging/LoggingHandler.java&#10;WebSocketFrameDe&#9;PSI&#9;JAVA://io.netty.handler.codec.http.websocketx.WebSocketFrameDecoder&#10;Channel&#9;PSI&#9;JAVA://io.netty.channel.Channel&#10;SimpleChannel&#9;PSI&#9;JAVA://io.netty.channel.SimpleChannelInboundHandler&#10;ChannelPromise&#9;PSI&#9;JAVA://io.netty.channel.ChannelPromise&#10;Selector&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/Selector.java&#10;SelectionKey&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/SelectionKey.java&#10;InputStreamReader&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/InputStreamReader.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549028765300" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585731620418" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -368,7 +374,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringCompare.smallerNode">
+  <component name="RunManager" selected="Application.MaxDepthAfterSplit">
+    <configuration name="MaxDepthAfterSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MaxDepthAfterSplit" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringCompare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
@@ -431,36 +450,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZKTest.watch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zookeeper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="zookeeper" />
-      <option name="MAIN_CLASS_NAME" value="zookeeper.ZKTest" />
-      <option name="METHOD_NAME" value="watch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.ZKTest.watch" />
       <item itemvalue="JUnit.StringCompare.compare" />
       <item itemvalue="JUnit.StringCompare" />
       <item itemvalue="JUnit.StringCompare.checkMaster" />
       <item itemvalue="JUnit.StringCompare.smallerNode" />
+      <item itemvalue="Application.MaxDepthAfterSplit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxDepthAfterSplit" />
         <item itemvalue="JUnit.StringCompare.smallerNode" />
         <item itemvalue="JUnit.StringCompare.checkMaster" />
         <item itemvalue="JUnit.StringCompare.compare" />
         <item itemvalue="JUnit.StringCompare" />
-        <item itemvalue="JUnit.ZKTest.watch" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +509,8 @@
       <workItem from="1548645896168" duration="3569000" />
       <workItem from="1549001225462" duration="4411000" />
       <workItem from="1549026671397" duration="2377000" />
-      <workItem from="1585709605372" duration="228000" />
+      <workItem from="1585709605372" duration="2805000" />
+      <workItem from="1585730377279" duration="813000" />
     </task>
     <servers />
   </component>
@@ -543,7 +547,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167498000" />
+    <option name="totallyTimeSpent" value="170888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -556,8 +560,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.20233463" visible="true" weight="0.26068377" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.20233463" visible="true" weight="0.26442307" />
       <window_info id="Structure" order="1" sideWeight="0.79766536" side_tool="true" weight="0.31842387" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -566,17 +571,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3841584" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32871288" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3841584" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.36336634" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3626506" />
-      <window_info anchor="right" id="aiXcoder" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -586,7 +590,8 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297568" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32959402" />
+      <window_info anchor="right" id="aiXcoder" order="10" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,13 +601,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/Channel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="826">
@@ -960,6 +958,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/leetcode/MaxDepthAfterSplit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="27" />
         </state>
       </provider>
     </entry>
