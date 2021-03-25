@@ -40,15 +40,17 @@ public class MyG1Test {
 
         while (true){
 
+//            Thread.sleep(1);
+
             Byte[] bytes = new Byte[100];
 
-            if((index++ % 1) == 0){
+            if((index++ % 100) == 0){
                 lists.add(bytes);
             }
 
-            if(index % 10 == 0){
-                Byte[] bytes1 = new Byte[1024*1024];
-            }
+//            if(index % 10 == 0){
+//                Byte[] bytes1 = new Byte[1024*1024];
+//            }
         }
 
     }

@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16eb9c72-4bb4-4084-90b7-27ac27dcf4d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/gc/MyG1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/guava/bloomFilter/BloomFilterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_5_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_26_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_26_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_59.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_ext_jdk15on_1_59.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_ext_jdk15on_1_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/j2se/Java8Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/j2se/UtilsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/gc/MyG1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/gc/MyG1Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,12 +94,14 @@
     <session id="1171241295">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -118,7 +109,7 @@
           <entry key="class" value="7" />
           <entry key="gitignore" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="116" />
+          <entry key="java" value="119" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
@@ -126,7 +117,7 @@
         <counts>
           <entry key="CLASS" value="7" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="116" />
+          <entry key="JAVA" value="119" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="3" />
         </counts>
@@ -134,13 +125,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="java" value="3960" />
+          <entry key="java" value="4464" />
           <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3960" />
+          <entry key="JAVA" value="4464" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="8" />
         </counts>
@@ -150,10 +141,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo/src/main/java/gc/MyG1Test.java">
+        <entry file="file://$PROJECT_DIR$/demo/src/main/java/j2se/UtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+            <state relative-caret-position="225">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -174,8 +165,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>LOCAL_ADDRESS</find>
-      <find>REMOTE_ADDRESS</find>
       <find>METADATA_NO_DISCONNECT</find>
       <find>METADATA_DISCONNECT</find>
       <find>loop</find>
@@ -194,7 +183,6 @@
       <find>decode</find>
       <find>concurrent-m</find>
       <find>initial-mark</find>
-      <find>concurrent-mark</find>
       <find>clean</find>
       <find>concurrent-cleanup</find>
       <find>(mixed)</find>
@@ -203,6 +191,9 @@
       <find>full</find>
       <find>init</find>
       <find>GC pause</find>
+      <find>initi</find>
+      <find>concurrent-mark</find>
+      <find>cleanup</find>
       <find>Full</find>
     </findStrings>
     <replaceStrings>
@@ -228,8 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/src/test/java/xiaxi/demo/netty/EmbededTest.java" />
-        <option value="$PROJECT_DIR$/demo/src/test/java/xiaxi/demo/netty/NioEventLoopTest.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/pattern/factory/Product.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/pattern/factory/SimpleFactory.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/pattern/factory/FactoryMethod.java" />
@@ -279,6 +268,8 @@
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/demo/src/main/java/guava/bloomFilter/BloomFilterTest.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/gc/MyG1Test.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/j2se/Java8Stream.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/j2se/UtilsTest.java" />
       </list>
     </option>
   </component>
@@ -314,9 +305,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -324,6 +314,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -357,11 +348,19 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyDemos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyDemos" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="j2se" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -369,7 +368,7 @@
     <property name="SearchEverywhereHistoryKey" value="ServiceLoader&#9;PSI&#9;JAVA://java.util.ServiceLoader&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;ByteToMessage&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/handler/codec/ByteToMessageDecoder.java&#10;ChannelInbo&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final.jar!/io/netty/channel/ChannelInboundHandler.class&#10;ChannelOutHandler&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final.jar!/io/netty/channel/ChannelOutboundHandler.class&#10;ChannelHandler&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/ChannelHandler.java&#10;MessageToByte&#9;PSI&#9;JAVA://io.netty.handler.codec.MessageToByteEncoder&#10;DefaultFullHttp&#9;PSI&#9;JAVA://io.netty.handler.codec.http.DefaultFullHttpRequest&#10;HttpObjectEncoder&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectEncoder.java&#10;LoggingHandler&#9;FILE&#9;jar:///Users/xiaxi/.m2/repository/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/handler/logging/LoggingHandler.java&#10;WebSocketFrameDe&#9;PSI&#9;JAVA://io.netty.handler.codec.http.websocketx.WebSocketFrameDecoder&#10;Channel&#9;PSI&#9;JAVA://io.netty.channel.Channel&#10;SimpleChannel&#9;PSI&#9;JAVA://io.netty.channel.SimpleChannelInboundHandler&#10;ChannelPromise&#9;PSI&#9;JAVA://io.netty.channel.ChannelPromise&#10;Selector&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/Selector.java&#10;SelectionKey&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/SelectionKey.java&#10;InputStreamReader&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/InputStreamReader.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606911677758" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616661702117" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -400,7 +399,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyG1Test">
+  <component name="RunManager" selected="JUnit.UtilsTest.testObjects_Equals">
     <configuration name="BloomFilterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="guava.bloomFilter.BloomFilterTest" />
       <module name="demo" />
@@ -414,12 +413,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDepthAfterSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.MaxDepthAfterSplit" />
+    <configuration name="Java8Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j2se.Java8Stream" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="j2se.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,23 +429,10 @@
     <configuration name="MyG1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gc.MyG1Test" />
       <module name="demo" />
-      <option name="VM_PARAMETERS" value="-Xmx100M -Xms100M -Xmn40M -XX:+UseG1GC -XX:MaxGCPauseMillis=200 -XX:InitiatingHeapOccupancyPercent=40 -XX:+PrintAdaptiveSizePolicy -XX:+PrintCommandLineFlags -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCApplicationStoppedTime -XX:+PrintGCCause -XX:+PrintPromotionFailure -XX:+PrintTenuringDistribution -XX:+PrintHeapAtGC -XX:+UnlockDiagnosticVMOptions -XX:-G1PrintRegionLivenessInfo -XX:ParallelGCThreads=2 -XX:G1HeapWastePercent=0" />
+      <option name="VM_PARAMETERS" value="-Xmx100M -Xms100M -Xmn40M -XX:+UseG1GC -XX:MaxGCPauseMillis=200 -XX:InitiatingHeapOccupancyPercent=40 -XX:+PrintAdaptiveSizePolicy -XX:+PrintCommandLineFlags -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCApplicationStoppedTime -XX:+PrintGCCause -XX:+PrintPromotionFailure -XX:+PrintTenuringDistribution -XX:+PrintHeapAtGC -XX:+UnlockDiagnosticVMOptions -XX:-G1PrintRegionLivenessInfo -XX:ParallelGCThreads=2 -XX:G1HeapWastePercent=10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RSAUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sign.RSAUtils" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sign.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -470,20 +456,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UtilsTest.testObjects_Equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j2se.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="j2se" />
+      <option name="MAIN_CLASS_NAME" value="j2se.UtilsTest" />
+      <option name="METHOD_NAME" value="testObjects_Equals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.MaxDepthAfterSplit" />
-      <item itemvalue="Application.RSAUtils" />
       <item itemvalue="Application.BloomFilterTest" />
       <item itemvalue="Application.MyG1Test" />
       <item itemvalue="JUnit.ImageCompress.imageCompress" />
+      <item itemvalue="Application.Java8Stream" />
+      <item itemvalue="JUnit.UtilsTest.testObjects_Equals" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UtilsTest.testObjects_Equals" />
+        <item itemvalue="Application.Java8Stream" />
         <item itemvalue="Application.MyG1Test" />
         <item itemvalue="Application.BloomFilterTest" />
         <item itemvalue="JUnit.ImageCompress.imageCompress" />
-        <item itemvalue="Application.RSAUtils" />
-        <item itemvalue="Application.MaxDepthAfterSplit" />
       </list>
     </recent_temporary>
   </component>
@@ -533,20 +535,15 @@
       <workItem from="1585730377279" duration="2725000" />
       <workItem from="1585811723148" duration="7894000" />
       <workItem from="1603092183556" duration="4847000" />
-      <workItem from="1606836336497" duration="16904000" />
+      <workItem from="1606836336497" duration="17422000" />
+      <workItem from="1607502436892" duration="2206000" />
+      <workItem from="1613703308606" duration="1320000" />
+      <workItem from="1613728033536" duration="23000" />
+      <workItem from="1616659719562" duration="874000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringCompare_checkMaster - 2019.02.01 at 14h 47m 47s.xml">
-      <configuration name="StringCompare.checkMaster" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringCompare_checkMaster - 2019.02.01 at 14h 48m 30s.xml">
-      <configuration name="StringCompare.checkMaster" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringCompare_smallerNode - 2019.02.01 at 14h 53m 18s.xml">
-      <configuration name="StringCompare.smallerNode" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringCompare_smallerNode - 2019.02.01 at 14h 53m 48s.xml">
       <configuration name="StringCompare.smallerNode" configurationId="JUnit" />
     </history-entry>
@@ -568,9 +565,18 @@
     <history-entry file="ImageCompress_imageCompress - 2020.04.03 at 15h 38m 51s.xml">
       <configuration name="ImageCompress.imageCompress" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UtilsTest_testObjects_Equals - 2021.03.25 at 16h 41m 20s.xml">
+      <configuration name="UtilsTest.testObjects_Equals" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilsTest_testObjects_Equals - 2021.03.25 at 16h 41m 35s.xml">
+      <configuration name="UtilsTest.testObjects_Equals" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilsTest_testObjects_Equals - 2021.03.25 at 16h 41m 47s.xml">
+      <configuration name="UtilsTest.testObjects_Equals" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202445000" />
+    <option name="totallyTimeSpent" value="207386000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -582,9 +588,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.20233463" visible="true" weight="0.18803419" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.20233463" visible="true" weight="0.26795977" />
       <window_info id="Structure" order="1" sideWeight="0.79766536" side_tool="true" weight="0.31842387" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -594,18 +601,17 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32871288" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.54851484" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.47831476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31445783" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.57425743" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3626506" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="bottom" id="Analysis" order="13" />
-      <window_info anchor="right" id="RestServices" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -617,6 +623,8 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297568" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32959402" />
       <window_info anchor="right" id="aiXcoder" order="10" side_tool="true" />
+      <window_info anchor="right" id="RestServices" order="11" />
+      <window_info anchor="right" id="Mybatis datasource" order="12" show_stripe_button="false" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,9 +633,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/j2se/UtilsTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/ChannelHandler.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/ChannelInboundHandler.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final.jar!/io/netty/handler/codec/ByteToMessageCodec.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final-sources.jar!/io/netty/channel/ChannelOutboundHandler.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.26.Final/netty-all-4.1.26.Final.jar!/io/netty/channel/ChannelOutboundHandler.class" />
@@ -774,13 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/j2se/ProducerAndConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/leetcode/MaxDepthAfterSplit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
@@ -876,16 +887,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/gc/MyG1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/j2se/ProducerAndConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/j2se/Java8Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/gc/MyG1Test.java">
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/j2se/UtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        <state relative-caret-position="225">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
